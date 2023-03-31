@@ -13,7 +13,7 @@
   <dd>HackerRank</dd>
   <dt>I like going through HackerRanks preperation bundles because they have targeted topics like data structures. Depending on what I am learning, I like using the knowledge from the Udemy courses and then using those skills to solve problems. This cycle has helped me the most with advancing my knowledge. </dt>
 </dl>
-<h2>I'm currently focusing on expanding my Java knowledge and reading the book "The Algorithm Design Manual" by Steven S Skiena · 2008</h2>
+
 
 ## Connect with me! ⬇️
 <a href="https://www.linkedin.com/in/brittney-brinson-b623bb245/">LinkedIn 💼</a>
