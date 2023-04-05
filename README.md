@@ -3,7 +3,7 @@
 
 <hr>
 <h1> Skills: Java 8, JavaScript, HTML5, CSS3, MySQL, Bootstrap 5, JQuery, API integration, SpringBoot, and Git version control.   </h1>
-<h2>As a programmer I am focused on writing effecient code, which to me means taking time complexity and algorithm design seriously.</h2>
+<h2>As a programmer I am focused on writing effecient code, which to me means taking time complexity and algorithm design seriously. With my military background, I am used to working in collaborative settings with open communication. </h2>
 <hr>
 
 ## Connect with me! ⬇️
