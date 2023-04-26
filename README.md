@@ -1,7 +1,7 @@
 # Hello! My name is Brittney and I'm happy you're here! 👋🏾
 <!-- ![Github-Banner](https://user-images.githubusercontent.com/110069445/229973286-eb5926e8-8b13-416d-89d2-9b127812e65d.png) -->
 <div>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrittneyBrinson&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
