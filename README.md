@@ -3,7 +3,7 @@
  https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif-->
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif"/>
-</div  
+</div>  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrittneyBrinson&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 <h1> Skills: Java 8, JavaScript, HTML5, CSS3, MySQL, Bootstrap 5, JQuery, API integration, SpringBoot, and Git version control.   </h1>
