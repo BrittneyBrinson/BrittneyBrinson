@@ -9,4 +9,4 @@
 ## Connect with me! ⬇️
 <a href="https://www.linkedin.com/in/brittney-brinson-b623bb245/">LinkedIn 💼</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrittneyBrinson)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrittneyBrinson&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
