@@ -3,8 +3,6 @@
  https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif-->
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif"/>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrittneyBrinson&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=BrittneyBrinson)
 </div>  
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrittneyBrinson&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=BrittneyBrinson) -->
