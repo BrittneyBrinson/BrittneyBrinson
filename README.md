@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="![Github-Banner](https://user-images.githubusercontent.com/110069445/234734069-601615c3-1bc4-4dad-912c-f02eadc04717.jpg)" width="100"/>
+</div>
 ![Github-Banner](https://user-images.githubusercontent.com/110069445/234734069-601615c3-1bc4-4dad-912c-f02eadc04717.jpg)
 
 # Hello! My name is Brittney and I'm happy you're here! 👋🏾
