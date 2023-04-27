@@ -11,7 +11,19 @@
  <img src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" width="200"/>
 </div>  
 <hr>
-<h1> Skills: Java 8, JavaScript, HTML5, CSS3, MySQL, Bootstrap 5, JQuery, API integration, SpringBoot, and Git version control.   </h1>
+<h1> Skills:</h1>
+  <ul>
+  <li>Java 8</li>
+  <li>JavaScript</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>MySQL</li> 
+  <li>Bootstrap 5</li>
+  <li>JQuery</li>
+  <li>API integration</li>
+  <li>SpringBoot</li>
+  <li>Git version control</li>  
+  </ul>
 <h2>As a programmer I am focused on writing effecient code, which to me means taking time complexity and algorithm design seriously. With my military background, I am used to working in collaborative settings with open communication. </h2>
 <hr>
 
