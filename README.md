@@ -2,7 +2,7 @@
 ![Github-Banner](https://user-images.githubusercontent.com/110069445/229973286-eb5926e8-8b13-416d-89d2-9b127812e65d.png)
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif"/>
+<img src="https://media.giphy.com/media/EpexCAuRQQGd6YizGn/giphy.gif"/>
 </div>  
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrittneyBrinson&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=BrittneyBrinson) -->
