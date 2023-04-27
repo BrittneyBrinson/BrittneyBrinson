@@ -2,8 +2,9 @@
   <img src="https://user-images.githubusercontent.com/110069445/234734069-601615c3-1bc4-4dad-912c-f02eadc04717.jpg" />
 </div>
 <!-- ![Github-Banner](https://user-images.githubusercontent.com/110069445/234734069-601615c3-1bc4-4dad-912c-f02eadc04717.jpg) -->
-
-# Hello! My name is Brittney and I'm happy you're here! 👋🏾
+<div id="header" align="center">
+  # Hello! I'm <p color="pink">Brittney</p> and I'm happy you're here! 👋🏾
+</div>  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrittneyBrinson&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif"/>
