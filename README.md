@@ -3,7 +3,7 @@
 </div>
 <!-- ![Github-Banner](https://user-images.githubusercontent.com/110069445/234734069-601615c3-1bc4-4dad-912c-f02eadc04717.jpg) -->
 <div id="header" align="center">
-  # Hello! I'm Brittney and I'm happy you're here! 👋🏾
+  <h1> Hello! I'm Brittney and I'm happy you're here! 👋🏾 </h1>
 </div>  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrittneyBrinson&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <div id="header" align="center">
