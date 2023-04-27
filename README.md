@@ -5,7 +5,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrittneyBrinson&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
   
-<hr>  
+<hr> 
+
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" width="200"/>
 </div>  
