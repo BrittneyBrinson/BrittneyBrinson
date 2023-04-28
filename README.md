@@ -11,7 +11,7 @@
  <img src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" width="200"/>
 </div>  
 <hr>
-<h1> Skills:</h1>
+<h1> Skills:🧩 </h1>
   <ul>
   <li>Java 8</li>
   <li>JavaScript</li>
