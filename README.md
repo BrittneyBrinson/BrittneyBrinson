@@ -28,6 +28,7 @@
 <hr>
 
 <h1>Connect with me! ⬇️</h1>
+<hr>
 <a href="https://www.linkedin.com/in/brittney-brinson-b623bb245/">LinkedIn 💼</a>
 
 
