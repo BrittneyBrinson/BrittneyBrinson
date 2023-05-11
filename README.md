@@ -17,7 +17,7 @@
   <li>HTML5</li>
   <li>CSS3</li>
   <li>MySQL</li> 
-  <li>Bootstrap 5</li>
+  <li>Bootstrap</li>
   <li>JQuery</li>
   <li>API integration</li>
   <li>SpringBoot</li>
