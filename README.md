@@ -25,7 +25,7 @@
 <h2>As a programmer I am focused on writing effecient code, which to me means taking time complexity and algorithm design seriously. With my military background, I am used to working in collaborative settings with open communication. </h2>
 <hr>
 
-<h1>Connect with me! ⬇️</h1>
+<h1>Connect with me! 😇⬇️</h1>
 <a href="https://www.linkedin.com/in/brittney-brinson-b623bb245/">LinkedIn 💼</a>
 
 
