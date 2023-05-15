@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/110069445/234941799-0cf7bcfd-7389-470e-b530-f1f03497498d.jpg" />
-  <h1> Hello! I'm Brittney and I'm happy you're here! 👋🏾 </h1>
+  <h1> Hello! I'm Brittney and I'm happy that you're here! 👋🏾 </h1>
 </div>
 
 <hr> 
